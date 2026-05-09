@@ -1,4 +1,4 @@
-I built this to do von frey while animal is undergoing 2P calcium imaging 
+I built this to apply punctate touch with von frey to the mouse skin while the animal was undergoing 2P calcium imaging 
 mostly made of 3D prints and some common arduino friendly parts 
 
 Usage License
