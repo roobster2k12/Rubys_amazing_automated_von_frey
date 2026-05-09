@@ -1,6 +1,8 @@
 I built this to apply punctate touch with von frey to the mouse skin while the animal was undergoing 2P calcium imaging 
 mostly made of 3D prints and some common arduino friendly parts 
 
+Von frey fillament mounted on a spoke with stepper motor and mounted on a linear actuator powered by a servo
+
 Usage License
 This project is open-source. Feel free to use, modify, and distribute these designs for academic and non-commercial research purposes.
 Citation Requirement
